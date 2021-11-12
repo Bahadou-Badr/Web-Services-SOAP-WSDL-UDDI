@@ -2,13 +2,17 @@
 
 ## Creation d'un simple web service dans une application java
 
-- le web service
-  ![Tux, the Linux mascot](/images/p1.jpeg)
+- Le web service
+  ![Code de web service](/images/p1.jpeg)
 
 ## Creation d'un client Java
 
-![Tux, the Linux mascot](/images/p4.jpeg)
+![code java](/images/p4.jpeg)
 
 ## WSDL
 
-La documentation de webService en soapUI
+La documentation de webService et le test sur soapUI :
+
+![WSDL](/images/p5.jpeg)
+
+![SoapUI](/images/p6.jpeg)
